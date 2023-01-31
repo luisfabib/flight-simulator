@@ -1,12 +1,16 @@
 # Python 2D-Flight Simulator Game
+
+<img src="./assets/screenshot_readme.png" style="width: 70%; float: center;" />
+
+
 A simple 2D-flight simulator built using PyGame and using a realistic aerodynamics engine. 
 
 This is a practice project of mine to learn more about PyGame and aerodynamics, to develop a flight 
 simulator that can serve as an environment for reinforced learning projects later on. 
 
 ## Requirements
-- Pygame
 - Python 3.x
+- PyGame
 
 ## How to Run
 1. Clone or download the repository
