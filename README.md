@@ -2,7 +2,6 @@
 
 <img src="./assets/screenshot_readme.png" style="width: 70%; float: center;" />
 
-
 A simple 2D-flight simulator built using PyGame and using a realistic aerodynamics engine. 
 
 This is a practice project of mine to learn more about PyGame and aerodynamics, to develop a flight 
@@ -53,12 +52,11 @@ The game is over:
 Future updates might include:
 - Stall alerts
 - Emergencies (engine failures, flap blockages, etc) 
-- Different aircrafts
 - Autopilot trained by reinforced learning 
 
 ## Credits
 
-- Pixel art backgrounds by [Vicente Nitti](https://vnitti.itch.io/) (@vnitti), [Admurin](https://admurin.itch.io/) (@admurin), and (byKGF)[https://bykgf.itch.io/] .
+- Pixel art backgrounds by [Vicente Nitti](https://vnitti.itch.io/) (@vnitti), [Admurin](https://admurin.itch.io/) (@admurin), and [byKGF](https://bykgf.itch.io/).
 
 
 ## Licence
